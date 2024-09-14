@@ -194,3 +194,4 @@ Temporary Items
 .venv
 .env
 env*
+venv
